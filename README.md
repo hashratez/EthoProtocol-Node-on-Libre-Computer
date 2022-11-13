@@ -41,3 +41,9 @@ Login to https://nodes.ethoprotocol.com
 Select your node type and provide wallet address, take the auto generated script and run on the Roc.
 
 DONE.
+------------------------------
+Check out the IO performance of the Libre ROC vs the Pi
+![Roc4-Pi4](https://user-images.githubusercontent.com/37755722/201506198-7c880017-26e5-4de7-84f6-d3f5e8263d91.png)
+
+Next is the CPU, the Pi wins but since nodes are IO heavy the ROC is a better choice.
+
