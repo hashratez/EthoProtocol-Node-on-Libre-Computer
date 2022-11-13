@@ -41,6 +41,7 @@ Login to https://nodes.ethoprotocol.com
 Select your node type and provide wallet address, take the auto generated script and run on the Roc.
 
 DONE.
+![2022-11-12_23-25](https://user-images.githubusercontent.com/37755722/201506358-160f8d68-9bd7-410a-a19f-356052ff0cac.png)
 ------------------------------
 Check out the IO performance of the Libre ROC vs the Pi
 ![Roc4-Pi4](https://user-images.githubusercontent.com/37755722/201506198-7c880017-26e5-4de7-84f6-d3f5e8263d91.png)
