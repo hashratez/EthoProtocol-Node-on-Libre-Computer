@@ -28,9 +28,11 @@ Adduser "ether1node" to sudo
 
 Reboot and login as user "ether1node"
 
+```
 wget https://raw.githubusercontent.com/Ether1Project/EthoProtocol-Raspberry-Pi-Node/main/preprocess.sh
 chmod u+x preprocess.sh
 sudo su -c ./preprocess.sh
+```
 
 Reboot, login as user ether1node again
 
