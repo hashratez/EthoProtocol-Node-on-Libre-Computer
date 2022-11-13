@@ -45,5 +45,7 @@ DONE.
 Check out the IO performance of the Libre ROC vs the Pi
 ![Roc4-Pi4](https://user-images.githubusercontent.com/37755722/201506198-7c880017-26e5-4de7-84f6-d3f5e8263d91.png)
 
-Next is the CPU, the Pi wins but since nodes are IO heavy the ROC is a better choice.
+Next is the CPU, the Pi wins but since nodes are IO heavy the ROC is a better choice...
+![CPU-Roc-vs-Pi](https://user-images.githubusercontent.com/37755722/201506297-1205400d-b171-4172-b0d5-ddac254886ed.png)
+
 
