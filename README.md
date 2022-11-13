@@ -26,7 +26,7 @@ Update & Upgrade
 Adduser "ether1node"
 Adduser "ether1node" to sudo
 
-Reboot and login as user "ether1node"
+Reboot and login as user "ether1node" and run this command line:
 
 ```
 wget https://raw.githubusercontent.com/Ether1Project/EthoProtocol-Raspberry-Pi-Node/main/preprocess.sh
